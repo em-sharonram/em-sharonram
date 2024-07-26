@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sharon Ramirez
 ======================================================================================================================================
 
-Hi there! I'm Sharon, a passionate and ambitious beginner programmer eager to dive deep into the world of software development. My journey in programming has just begun, and I'm excited to learn, grow, and make meaningful contributions to the tech community.
+Hi there! I am a passionate and ambitious beginner programmer eager to dive deep into the world of software development. My journey in programming has just begun, and I'm excited to learn, grow, and make meaningful contributions to the tech community.
 
 * 🌍  I'm based in Jacksonville, FL
 * ✉️  You can contact me at [emsharonramirez@yahoo.com](mailto:emsharonramirez@yahoo.com)
